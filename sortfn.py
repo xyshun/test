@@ -16,6 +16,7 @@ def cmp1(x, y):
     return x >= y
 
 
+# Add a comment line.
 def cmp2(x, y):
     return x <= y
 
