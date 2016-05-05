@@ -1,3 +1,4 @@
+# Add a comment line.
 def mySort(cmp, *args):
     ret = []
     for arg in args:
@@ -10,6 +11,7 @@ def mySort(cmp, *args):
     return ret
 
 
+# Define a compare function.
 def cmp1(x, y):
     return x >= y
 
