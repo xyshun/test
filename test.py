@@ -1,7 +1,5 @@
 # add something in feature1 branch.
 
-# add a new line in master branch...
-
 # This is comment line.
 def testfun(num1, num2):
     if num1 >= num2:
