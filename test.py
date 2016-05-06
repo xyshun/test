@@ -1,5 +1,3 @@
-# add something in feature1 branch.
-
 # add a new line in master branch...
 
 # This is comment line.
